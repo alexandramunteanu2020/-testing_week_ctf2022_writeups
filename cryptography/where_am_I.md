@@ -4,6 +4,6 @@
 
 - the number are coordinates, we can find the location by using the google maps
 
-![image](static/2.PNG)
+![image](static/Iasi.PNG)
 
 Flag: `TW{IASI}`
