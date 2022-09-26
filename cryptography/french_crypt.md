@@ -7,6 +7,6 @@
 
 -putem folosi un tool online pt decriptare, ex: https://cryptii.com/pipes/vigenere-cipher
 
-![image](static/1.png)
+![image](static/1.PNG)
 
-Flag: `TW{security_testing}`s
+Flag: `TW{security_testing}`
