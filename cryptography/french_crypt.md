@@ -7,6 +7,6 @@
 
 -putem folosi un tool online pt decriptare, ex: https://cryptii.com/pipes/vigenere-cipher
 
-![image](static/1.PNG)
+![image](static/French_crypt.PNG)
 
 Flag: `TW{security_testing}`
