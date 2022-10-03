@@ -10,6 +10,5 @@
 ### Web
 - [Stylish](web/stylish.md)
 - [Monster](web/monster.md)
-- [Do you juggle?](web/do_you_juggle.md)
 
 Thank you for attending Testing Week 2022 CTF !
