@@ -5,6 +5,6 @@
 
 Once we access the link we see the following page:
 
-The title and text are a hint for checking the cookis of this session.
+The title and text are a hint for checking the cookies of this session.
 
-Flag: `TW{monch_dem_cookiez}}`
+Flag: `TW{monch_dem_cookiez}`

@@ -5,6 +5,6 @@
 
 Once we access the link we see the page.
 
-This challenge is quite simple, all we have to do is "inspect element" and view the source of the css(cascading style sheets) file which the title was hinting to:
+This challenge is quite simple, all we have to do is "inspect element" and view the source of the css(cascading style sheets) file
 
 Flag: `TW{W3lC0m3_70_73s71N9_W33k}`
